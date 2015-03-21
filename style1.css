@@ -1,0 +1,29 @@
+@font-face {
+    font-family: '--';
+    src: url('--');
+}
+body
+{
+font-family: '--' ;
+font-size:1.2em;
+background:#000 url("images/--.svg") fixed no-repeat;
+}
+
+h1
+{
+font-family: '--';
+font-weight: normal;
+color:#fff;
+font-size:3.5em;
+text-align: center;
+text-shadow: -px -px -px #----;
+}
+h2
+{
+
+}
+h3
+{
+
+}
+
